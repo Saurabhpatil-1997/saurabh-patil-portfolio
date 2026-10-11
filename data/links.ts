@@ -16,10 +16,10 @@ export const PERSONAL_LINKS = {
   location: "Mumbai, Maharashtra, India",
 
   // TODO: paste your real LinkedIn profile URL
-  linkedin: "https://linkedin.com/in/REPLACE_ME",
+  linkedin: "https://www.linkedin.com/in/saurrabhmohanpatil",
 
   // TODO: paste your real GitHub profile URL
-  github: "https://github.com/REPLACE_ME",
+  github: "https://github.com/Saurabhpatil-1997",
 
   // TODO: add your resume PDF to /public/docs/resume.pdf and this will
   // point to it automatically. Or replace with a hosted URL.
