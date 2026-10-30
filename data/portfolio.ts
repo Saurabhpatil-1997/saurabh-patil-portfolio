@@ -3,13 +3,19 @@ export const PROFILE = {
   role: "Data Engineer",
   location: "Mumbai, Maharashtra",
   yearsExperience: 5,
-  summary:
-    "Data Engineer with 5 years of experience architecting cloud-native data platforms on AWS and Snowflake that serve analytics and BI at scale. Expert in distributed pipeline design using PySpark, Apache Airflow, and dbt — with a track record of cutting processing latency by 30% and eliminating hundreds of hours of manual work through automation.",
-  heroTagline:
-    "I design and operate cloud-native data platforms — from raw ingestion to modeled, analytics-ready warehouses.",
-  heroSubtext:
-    "Deep hands-on experience migrating legacy SQL Server workloads to modern lakehouses, building event-driven ingestion frameworks, and delivering production-grade data infrastructure for BI, ML, and operational reporting.",
-  heroStack: ["Python", "PySpark", "SQL", "AWS", "Snowflake", "Airflow", "dbt"],
+  // summary:
+  //   "Data Engineer with 5 years of experience architecting cloud-native data platforms on AWS and Snowflake that serve analytics and BI at scale. Expert in distributed pipeline design using PySpark, Apache Airflow, and dbt — with a track record of cutting processing latency by 30% and eliminating hundreds of hours of manual work through automation.",
+  // heroTagline:
+  //   "I design and operate cloud-native data platforms from raw ingestion to modeled, analytics-ready warehouses.",
+  // heroSubtext:
+  //   "Deep hands-on experience migrating legacy SQL Server workloads to modern lakehouses, building event-driven ingestion frameworks, and delivering production-grade data infrastructure for BI, ML, and operational reporting.",
+summary:
+  "Data Engineer with 5 years of experience building reliable AWS and Snowflake data platforms with PySpark, Airflow and dbt. Cut pipeline latency by 30% and automated 10+ hours of weekly manual work.",
+heroTagline:
+  "I build data platforms teams can trust, from the first raw record to the final dashboard.",
+heroSubtext:
+  "Five years of moving data reliably: SQL Server to Snowflake migrations, near-real-time ingestion with Snowpipe, and tested dbt models, with pipeline latency cut by 30% along the way.",
+    heroStack: ["Python", "PySpark", "SQL", "AWS", "Snowflake", "Airflow", "dbt"],
 };
 
 export const ABOUT_HIGHLIGHTS = [

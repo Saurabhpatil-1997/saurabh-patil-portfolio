@@ -16,14 +16,14 @@ export const PERSONAL_LINKS = {
   location: "Mumbai, Maharashtra, India",
 
   // TODO: paste your real LinkedIn profile URL
-  linkedin: "https://www.linkedin.com/in/saurrabhmohanpatil",
+  linkedin: "https://www.linkedin.com/in/saurabhmohanpatil",
 
   // TODO: paste your real GitHub profile URL
   github: "https://github.com/Saurabhpatil-1997",
 
   // TODO: add your resume PDF to /public/docs/resume.pdf and this will
   // point to it automatically. Or replace with a hosted URL.
-  resumeUrl: "/docs/resume.pdf",
+  resumeUrl: "/docs/SaurabhPatilCV.pdf",
 
   // TODO: replace with your marksheet's Google Drive share link
   // (Drive links open in a new tab in-browser by default — no changes needed
