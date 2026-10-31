@@ -8,7 +8,7 @@
  * automatically.
  */
 
-export const SITE_URL = "https://saurabhpatil.dev"; // TODO: replace with your real deployed domain
+export const SITE_URL = "https://patilsaurabh.com"; // TODO: replace with your real deployed domain
 
 export const PERSONAL_LINKS = {
   email: "saurabhpatil.mca@gmail.com",
@@ -28,7 +28,7 @@ export const PERSONAL_LINKS = {
   // TODO: replace with your marksheet's Google Drive share link
   // (Drive links open in a new tab in-browser by default — no changes needed
   // on the component side once this is set).
-  marksheetUrl: "https://drive.google.com/REPLACE_ME",
+  marksheetUrl: "https://drive.google.com/drive/folders/1jGi58xdz8UzS2N5fFmbX2V7Gti-eh-oh?usp=sharing",
 };
 
 /**

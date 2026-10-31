@@ -9,40 +9,42 @@ export const PROFILE = {
   //   "I design and operate cloud-native data platforms from raw ingestion to modeled, analytics-ready warehouses.",
   // heroSubtext:
   //   "Deep hands-on experience migrating legacy SQL Server workloads to modern lakehouses, building event-driven ingestion frameworks, and delivering production-grade data infrastructure for BI, ML, and operational reporting.",
-summary:
-  "Data Engineer with 5 years of experience building reliable AWS and Snowflake data platforms with PySpark, Airflow and dbt. Cut pipeline latency by 30% and automated 10+ hours of weekly manual work.",
+//summary:
+//  "Data Engineer with 5 years of experience building reliable AWS and Snowflake data platforms with PySpark, Airflow and dbt. Cut pipeline latency by 30% and automated 10+ hours of weekly manual work.",
 heroTagline:
-  "I build data platforms teams can trust, from the first raw record to the final dashboard.",
+  "Engineering reliable data platforms, from raw data to trusted insights",
 heroSubtext:
-  "Five years of moving data reliably: SQL Server to Snowflake migrations, near-real-time ingestion with Snowpipe, and tested dbt models, with pipeline latency cut by 30% along the way.",
-    heroStack: ["Python", "PySpark", "SQL", "AWS", "Snowflake", "Airflow", "dbt"],
+  "Building scalable, cost-efficient data ecosystems through intelligent automation, event-driven architectures, and optimized processing, reducing latency while improving reliability and performance.",
+    heroStack: ["Python", "PySpark", "SQL", "AWS", "Snowflake", "dbt", "Airflow"],
 };
 
 export const ABOUT_HIGHLIGHTS = [
   {
-    label: "Experience",
-    value: "5 years",
-    detail: "Data engineering across product, analytics, and BI-focused teams.",
+    label: "EXPERIENCE",
+    value: "5+ Years in Production",
+    detail: "Building production-grade data platforms across engineering, analytics, and BI ecosystems.",
   },
   {
-    label: "Cloud & Warehousing",
-    value: "AWS + Snowflake",
-    detail: "S3, Glue, Redshift, Athena, Lambda, IAM, VPC, and Snowpipe-based ingestion.",
+    label: "PLATFORM MODERNIZATION",
+    value: "Cloud Modernization",
+    detail: "Migrating legacy, batch-bound systems into scalable, event-driven cloud architectures.",
   },
   {
-    label: "Pipeline Design",
-    value: "PySpark, Airflow, dbt",
-    detail: "Distributed ETL/ELT, DAG orchestration, and modular, tested dbt models.",
+    label: "ENGINEERING APPROACH",
+    value: "Automation & Optimization",
+    detail: " Identifying manual bottlenecks and designing smarter, self-healing pipelines that eliminate repetitive work.",
   },
   {
-    label: "Impact",
-    value: "30% latency cut",
-    detail: "End-to-end pipeline latency reduced across high-volume production workloads.",
+    label: "PERFORMANCE & RELIABILITY",
+    value: "Built for Observability",
+    detail: "Optimizing resource utilization, reducing latency, and implementing robust validation to ensure data teams can trust the output.",
   },
 ];
 
 export const ABOUT_PARAGRAPHS = [
-  "I'm a Data Engineer based in Mumbai, currently building distributed ETL frameworks and cloud-native ingestion systems at Inspiroz IT Services. My work centers on moving data reliably — from source systems, through distributed processing, into warehouses that analysts and stakeholders can actually trust.",
-  "Most of my recent work has focused on migrating legacy SQL Server workloads onto Snowflake, replacing batch-dependent pipelines with event-driven, near-real-time ingestion, and building modular dbt models with built-in testing and documentation. I care about the parts of data engineering that don't show up in a demo: data quality validation, CDC-based transformations, IAM and VPC-level governance, and pipelines that fail loudly instead of silently.",
-  "Before data engineering, I worked as a Data Processing Analyst and Data Analyst — experience that shaped how I think about the people on the receiving end of a pipeline: analysts, data scientists, and decision-makers who need consistent, well-modeled data on a predictable schedule.",
+"Hi, I'm Saurabh.",
+"With 5+ years of experience in Data Engineering, I've learned that great data engineering goes beyond moving data from one system to another. It takes thoughtful architecture, reliable ingestion pipelines, data quality checks, CDC implementations, and observability to build platforms that prevent silent failures and deliver trustworthy data.",
+"I enjoy modernizing legacy data systems and transforming traditional, batch-heavy architectures into scalable, event-driven data platforms. For me, a pipeline isn't complete just because the data has arrived, it should be observable, resilient, and designed to handle failures gracefully.",
+"Beyond data engineering, I'm naturally drawn to patterns and repetitive processes that can be simplified through automation. I enjoy exploring system design, understanding distributed systems, optimizing cloud costs, and finding smarter ways to solve engineering problems.",
+"I believe good engineering is about more than making systems work — it's about making them reliable, efficient, maintainable, analytics-ready, and built to scale."
 ];
