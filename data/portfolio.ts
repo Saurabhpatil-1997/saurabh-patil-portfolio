@@ -9,8 +9,8 @@ export const PROFILE = {
   //   "I design and operate cloud-native data platforms from raw ingestion to modeled, analytics-ready warehouses.",
   // heroSubtext:
   //   "Deep hands-on experience migrating legacy SQL Server workloads to modern lakehouses, building event-driven ingestion frameworks, and delivering production-grade data infrastructure for BI, ML, and operational reporting.",
-//summary:
-//  "Data Engineer with 5 years of experience building reliable AWS and Snowflake data platforms with PySpark, Airflow and dbt. Cut pipeline latency by 30% and automated 10+ hours of weekly manual work.",
+summary:
+  "Data Engineer with 5 years of experience building reliable AWS and Snowflake data platforms with PySpark, Airflow and dbt. Cut pipeline latency by 30% and automated 10+ hours of weekly manual work.",
 heroTagline:
   "Engineering reliable data platforms, from raw data to trusted insights",
 heroSubtext:
